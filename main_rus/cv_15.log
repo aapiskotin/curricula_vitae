@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.1)  2 FEB 2021 07:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.1)  2 FEB 2021 08:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -338,12 +338,39 @@ Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 )
 (./structure.tex
-(/usr/local/texlive/2020/texmf-dist/tex/latex/xcharter/XCharter.sty
-Package: XCharter 2019/11/21 v1.203
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
 
-`XCharter' v1.203, 2019/11/21 Text macros for XCharter, an extension of Charter
- (msharpe) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count292
+\U@D=\dimen179
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count293
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
@@ -549,6 +576,16 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcharter/XCharter.sty
+Package: XCharter 2019/11/21 v1.203
+
+`XCharter' v1.203, 2019/11/21 Text macros for XCharter, an extension of Charter
+ (msharpe) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+
 (/usr/local/texlive/2020/texmf-dist/tex/latex/ly1/ly1enc.def
 File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
@@ -687,7 +724,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count292
+\etb@tempcnta=\count294
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
@@ -711,7 +748,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@tempa@toks=\toks24
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count293
+\XKV@depth=\count295
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
@@ -737,17 +774,17 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count294
-\Gm@cntv=\count295
-\c@Gm@tempcnt=\count296
-\Gm@bindingoffset=\dimen179
-\Gm@wd@mp=\dimen180
-\Gm@odd@mp=\dimen181
-\Gm@even@mp=\dimen182
-\Gm@layoutwidth=\dimen183
-\Gm@layoutheight=\dimen184
-\Gm@layouthoffset=\dimen185
-\Gm@layoutvoffset=\dimen186
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
 \Gm@dimlist=\toks27
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -767,8 +804,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen187
-\Gin@req@width=\dimen188
+\Gin@req@height=\dimen188
+\Gin@req@width=\dimen189
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/flowfram/flowfram.sty
 Package: flowfram 2014/09/30 v1.17 (NLCT)
@@ -794,15 +831,15 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 \fflabelsep=\skip191
-\c@absolutepage=\count297
-\c@maxflow=\count298
-\c@thisframe=\count299
-\c@displayedframe=\count300
-\c@maxstatic=\count301
-\c@maxdynamic=\count302
-\@colN=\count303
-\@ff@tmpN=\count304
-\ff@id=\count305
+\c@absolutepage=\count299
+\c@maxflow=\count300
+\c@thisframe=\count301
+\c@displayedframe=\count302
+\c@maxstatic=\count303
+\c@maxdynamic=\count304
+\@colN=\count305
+\@ff@tmpN=\count306
+\ff@id=\count307
 \@ff@offset=\skip192
 \@ff@tmp@x=\skip193
 \@ff@tmp@x@even=\skip194
@@ -821,16 +858,16 @@ Package color Info: Driver file: pdftex.def on input line 147.
 \ffareaevenx=\skip260
 \ffareaeveny=\skip261
 \fftolerance=\skip262
-\c@ffrangenum=\count306
-\c@curpg=\count307
+\c@ffrangenum=\count308
+\c@curpg=\count309
 \ffevenoffset=\skip263
-\@nxtcol=\count308
+\@nxtcol=\count310
 \columnheight=\skip264
 \vcolumnsep=\skip265
 \@ff@staticH=\skip266
-\@ff@adjh=\count309
+\@ff@adjh=\count311
 \@ff@staticW=\skip267
-\@thisstrip=\count310
+\@thisstrip=\count312
 \ffcolumnseprule=\skip268
 \@ff@left@x=\skip269
 \@ff@left@y=\skip270
@@ -838,16 +875,16 @@ Package color Info: Driver file: pdftex.def on input line 147.
 \@ff@left@eveny=\skip272
 \@ff@left@width=\skip273
 \@ff@left@height=\skip274
-\c@maxthumbtabs=\count311
+\c@maxthumbtabs=\count313
 \thumbtabwidth=\skip275
-\@greyscale=\count312
-\c@maxtocunits=\count313
-\c@maxminitoc=\count314
-\@ttb@level=\count315
-\@ttb@minitoclevel=\count316
+\@greyscale=\count314
+\c@maxtocunits=\count315
+\c@maxminitoc=\count316
+\@ttb@level=\count317
+\@ttb@minitoclevel=\count318
 \beforeminitocskip=\skip276
 \afterminitocskip=\skip277
-\c@minitoc=\count317
+\c@minitoc=\count319
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
@@ -881,8 +918,8 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen189
-\pgfutil@tempdimb=\dimen190
+\pgfutil@tempdima=\dimen190
+\pgfutil@tempdimb=\dimen191
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
@@ -909,26 +946,26 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 ode.tex
 \pgfkeys@tmptoks=\toks35
 ))
-\pgf@x=\dimen191
-\pgf@y=\dimen192
-\pgf@xa=\dimen193
-\pgf@ya=\dimen194
-\pgf@xb=\dimen195
-\pgf@yb=\dimen196
-\pgf@xc=\dimen197
-\pgf@yc=\dimen198
-\pgf@xd=\dimen256
-\pgf@yd=\dimen257
+\pgf@x=\dimen192
+\pgf@y=\dimen193
+\pgf@xa=\dimen194
+\pgf@ya=\dimen195
+\pgf@xb=\dimen196
+\pgf@yb=\dimen197
+\pgf@xc=\dimen198
+\pgf@yc=\dimen256
+\pgf@xd=\dimen257
+\pgf@yd=\dimen258
 \w@pgf@writea=\write4
-\r@pgf@reada=\read3
-\c@pgf@counta=\count318
-\c@pgf@countb=\count319
-\c@pgf@countc=\count320
-\c@pgf@countd=\count321
+\r@pgf@reada=\read4
+\c@pgf@counta=\count320
+\c@pgf@countb=\count321
+\c@pgf@countc=\count322
+\c@pgf@countd=\count323
 \t@pgf@toka=\toks36
 \t@pgf@tokb=\toks37
 \t@pgf@tokc=\toks38
-\pgf@sys@id@count=\count322
+\pgf@sys@id@count=\count324
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
@@ -946,8 +983,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count323
-\pgfsyssoftpath@bigbuffer@items=\count324
+\pgfsyssoftpath@smallbuffer@items=\count325
+\pgfsyssoftpath@bigbuffer@items=\count326
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -959,8 +996,8 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen258
-\pgfmath@count=\count325
+\pgfmath@dimen=\dimen259
+\pgfmath@count=\count327
 \pgfmath@box=\box54
 \pgfmath@toks=\toks39
 \pgfmath@stack@operand=\toks40
@@ -985,37 +1022,37 @@ code.tex)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count326
+\c@pgfmathroundto@lastzeros=\count328
 )) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen259
-\pgf@picmaxx=\dimen260
-\pgf@picminy=\dimen261
-\pgf@picmaxy=\dimen262
-\pgf@pathminx=\dimen263
-\pgf@pathmaxx=\dimen264
-\pgf@pathminy=\dimen265
-\pgf@pathmaxy=\dimen266
-\pgf@xx=\dimen267
-\pgf@xy=\dimen268
-\pgf@yx=\dimen269
-\pgf@yy=\dimen270
-\pgf@zx=\dimen271
-\pgf@zy=\dimen272
+\pgf@picminx=\dimen260
+\pgf@picmaxx=\dimen261
+\pgf@picminy=\dimen262
+\pgf@picmaxy=\dimen263
+\pgf@pathminx=\dimen264
+\pgf@pathmaxx=\dimen265
+\pgf@pathminy=\dimen266
+\pgf@pathmaxy=\dimen267
+\pgf@xx=\dimen268
+\pgf@xy=\dimen269
+\pgf@yx=\dimen270
+\pgf@yy=\dimen271
+\pgf@zx=\dimen272
+\pgf@zy=\dimen273
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen273
-\pgf@path@lasty=\dimen274
+\pgf@path@lastx=\dimen274
+\pgf@path@lasty=\dimen275
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen275
-\pgf@shorten@start@additional=\dimen276
+\pgf@shorten@end@additional=\dimen276
+\pgf@shorten@start@additional=\dimen277
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -1023,19 +1060,19 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count327
+\pgf@picture@serial@count=\count329
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen277
+\pgflinewidth=\dimen278
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen278
-\pgf@pt@y=\dimen279
-\pgf@pt@temp=\dimen280
+\pgf@pt@x=\dimen279
+\pgf@pt@y=\dimen280
+\pgf@pt@temp=\dimen281
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1052,14 +1089,14 @@ File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen281
+\pgfarrowsep=\dimen282
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen282
-\pgf@sys@shading@range@num=\count328
-\pgf@shadingcount=\count329
+\pgf@max=\dimen283
+\pgf@sys@shading@range@num=\count330
+\pgf@shadingcount=\count331
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1098,8 +1135,8 @@ File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen283
-\pgf@nodesepend=\dimen284
+\pgf@nodesepstart=\dimen284
+\pgf@nodesepend=\dimen285
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1114,8 +1151,8 @@ Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen285
-\pgffor@skip=\dimen286
+\pgffor@iter=\dimen286
+\pgffor@skip=\dimen287
 \pgffor@stack=\toks42
 \pgffor@toks=\toks43
 ))
@@ -1126,34 +1163,34 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count330
-\pgfplotmarksize=\dimen287
+\pgf@plot@mark@count=\count332
+\pgfplotmarksize=\dimen288
 )
-\tikz@lastx=\dimen288
-\tikz@lasty=\dimen289
-\tikz@lastxsaved=\dimen290
-\tikz@lastysaved=\dimen291
-\tikz@lastmovetox=\dimen292
-\tikz@lastmovetoy=\dimen293
-\tikzleveldistance=\dimen294
-\tikzsiblingdistance=\dimen295
+\tikz@lastx=\dimen289
+\tikz@lasty=\dimen290
+\tikz@lastxsaved=\dimen291
+\tikz@lastysaved=\dimen292
+\tikz@lastmovetox=\dimen293
+\tikz@lastmovetoy=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
 \tikz@figbox=\box60
 \tikz@figbox@bg=\box61
 \tikz@tempbox=\box62
 \tikz@tempbox@bg=\box63
-\tikztreelevel=\count331
-\tikznumberofchildren=\count332
-\tikznumberofcurrentchild=\count333
-\tikz@fig@count=\count334
+\tikztreelevel=\count333
+\tikznumberofchildren=\count334
+\tikznumberofcurrentchild=\count335
+\tikz@fig@count=\count336
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count335
-\pgfmatrixcurrentcolumn=\count336
-\pgf@matrix@numberofcolumns=\count337
+\pgfmatrixcurrentrow=\count337
+\pgfmatrixcurrentcolumn=\count338
+\pgf@matrix@numberofcolumns=\count339
 )
-\tikz@expandcount=\count338
+\tikz@expandcount=\count340
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1163,11 +1200,11 @@ File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks44
 \labelindent=\skip278
-\enit@outerparindent=\dimen296
+\enit@outerparindent=\dimen297
 \enit@toks=\toks45
 \enit@inbox=\box64
-\enit@count@id=\count339
-\enitdp@description=\count340
+\enit@count@id=\count341
+\enitdp@description=\count342
 )
 \columni=\box65
 \colwidthi=\skip279
@@ -1183,11 +1220,11 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \@sf@i@evenx=\skip288
 \@sf@i@eveny=\skip289
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 57.
+(Font)              <12> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 57.
+(Font)              <8> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 57.
+(Font)              <6> on input line 58.
 \columnii=\box67
 \colwidthii=\skip290
 \colheightii=\skip291
@@ -1198,43 +1235,54 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count341
+\l__kernel_color_stack_int=\count343
 \l__pdf_internal_box=\box68
 )
-No file cv_15.aux.
+(./cv_15.aux
+LaTeX Font Info:    Trying to load font information for T2A+XCharter-TLF on inp
+ut line 5.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcharter/T2AXCharter-TLF.fd
+File: T2AXCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for T2A/XCharte
+r-TLF.
+)
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 5.
+)
 \openout1 = `cv_15.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 54.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
-0.
+4.
+
 (/usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 54.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 5
-0.
+4.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 50.
-\c@mv@tabular=\count342
-\c@mv@boldtabular=\count343
+LaTeX Font Info:    ... okay on input line 54.
+\c@mv@tabular=\count344
+\c@mv@boldtabular=\count345
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1272,16 +1320,16 @@ LaTeX Font Info:    ... okay on input line 50.
 
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count344
-\scratchdimen=\dimen297
+\scratchcounter=\count346
+\scratchdimen=\dimen298
 \scratchbox=\box69
-\nofMPsegments=\count345
-\nofMParguments=\count346
+\nofMPsegments=\count347
+\nofMParguments=\count348
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count347
-\MPscratchDim=\dimen298
-\MPnumerator=\count348
-\makeMPintoPDFobject=\count349
+\MPscratchCnt=\count349
+\MPscratchDim=\dimen299
+\MPnumerator=\count350
+\makeMPintoPDFobject=\count351
 \everyMPtoPDFconversion=\toks47
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1293,80 +1341,91 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-<photo.jpg, id=4, 423.5825pt x 422.57875pt>
-File: photo.jpg Graphic file (type jpg)
-<use photo.jpg>
-Package pdftex.def Info: photo.jpg  used on input line 52.
-(pdftex.def)             Requested size: 64.87195pt x 64.71236pt.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 52.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
-2.
+<v1.jpg, id=4, 2597.705pt x 3194.93625pt>
+File: v1.jpg Graphic file (type jpg)
+<use v1.jpg>
+Package pdftex.def Info: v1.jpg  used on input line 56.
+(pdftex.def)             Requested size: 68.11876pt x 83.75377pt.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 56.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+56.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 52.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 52.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 60.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 60.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 62.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 62.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 68.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 114.
+(Font)              <10.95> on input line 56.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 64.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 64.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 66.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 66.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 74.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 133.
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on inp
-ut line 114.
+ut line 133.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/xcharter/TS1XCharter-TLF.fd
 File: TS1XCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for TS1/XCharte
 r-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 114.
-LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 114.
+(Font)              scaled to size 12.0pt on input line 133.
+LaTeX Font Info:    Font shape `T2A/XCharter-TLF/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 133.
 
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./photo
-.jpg>]
-File: photo.jpg Graphic file (type jpg)
-<use photo.jpg>
-Package pdftex.def Info: photo.jpg  used on input line 174.
-(pdftex.def)             Requested size: 64.87195pt x 64.71236pt.
- [2
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./v1.jp
+g>]
+
+Package flowfram Warning: Moving to flow frame of unequal width,
+(flowfram)                use of \framebreak advised, or text might not appear 
+correctly (difference = 259.48683pt, tolerance = 2.0pt) on input line 174.
+
+
+Overfull \hbox (246.82634pt too wide) in paragraph at lines 180--181
+[][]
+ []
+
+[2
+
+]
+File: v1.jpg Graphic file (type jpg)
+<use v1.jpg>
+Package pdftex.def Info: v1.jpg  used on input line 193.
+(pdftex.def)             Requested size: 68.11876pt x 83.75377pt.
+ [3
 
 ] (./cv_15.aux) ) 
 Here is how much of TeX's memory you used:
- 18846 strings out of 480608
- 345195 string characters out of 5903631
- 626631 words of memory out of 5000000
- 34423 multiletter control sequences out of 15000+600000
- 602397 words of font info for 58 fonts, out of 8000000 for 9000
+ 19410 strings out of 480608
+ 350718 string characters out of 5903631
+ 648411 words of memory out of 5000000
+ 34965 multiletter control sequences out of 15000+600000
+ 562914 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,16n,62p,957b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/x
-ch_lotb2t.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_
-q7u3cc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_uy5
-hgr.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
-1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter-
-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XChart
-er-BoldItalic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/xchart
-er/XCharter-Roman.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-
-super/sftt1095.pfb>
-Output written on cv_15.pdf (2 pages, 200936 bytes).
+ch_4frzvl.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_
+q7u3cc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/xcharter/xch_cxo
+25j.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
+2a.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XCharter
+-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/xcharter/XChar
+ter-BoldItalic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/xchar
+ter/XCharter-Roman.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm
+-super/sftt1095.pfb>
+Output written on cv_15.pdf (3 pages, 3259620 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
