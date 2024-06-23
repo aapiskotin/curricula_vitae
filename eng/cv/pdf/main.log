@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.2)  23 JUN 2024 18:03
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.2)  23 JUN 2024 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1459,12 +1459,24 @@ File: my_photo.jpg Graphic file (type bmp)
 File: my_photo.jpg Graphic file (type bmp)
 <my_photo.jpg>
 
-Overfull \hbox (4.23221pt too wide) in paragraph at lines 386--387
+[3
+
+]
+File: my_photo.jpg Graphic file (type bmp)
+<my_photo.jpg>
+
+Overfull \hbox (8.53624pt too wide) in paragraph at lines 362--362
+[][][]\TU/XCharter(0)/b/n/12 Оптимизация Аппроксимирующего Полинома Передаточно
+й Функции
+ []
+
+
+Overfull \hbox (4.23221pt too wide) in paragraph at lines 375--376
 []\TU/XCharter(0)/m/n/12 Dec 2021, «Банковское кредитование» journal, Publishin
 g House «Регламент»
  []
 
-[3
+[4
 
 ] (/Users/aapiskotin/projects/curricula_vitae/eng/cv/pdf/main.aux)
  ***********
@@ -1488,4 +1500,4 @@ Here is how much of TeX's memory you used:
  89i,16n,120p,471b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on /Users/aapiskotin/projects/curricula_vitae/eng/cv/pdf/main.pd
-f (3 pages).
+f (4 pages).
